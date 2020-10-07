@@ -26,6 +26,7 @@ setup(
     url='https://github.com/ketaro/djangocms-rawhtml',
     author='Nick Avgerinos',
     author_email='nicka@axcella.com',
+    install_requires=REQUIREMENTS,
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
